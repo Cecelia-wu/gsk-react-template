@@ -1,0 +1,11 @@
+{
+  "base": {
+    "name": "my_text1",
+    "module_name": "我的文本1",
+    "version": "1.0.0",
+    "show": 1
+  },
+  "width": 200,
+  "height": 70,
+  "configuration": []
+}
